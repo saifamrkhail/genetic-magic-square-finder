@@ -116,5 +116,5 @@ public class Individual {
         hash = 17 * hash + Arrays.hashCode(this.square);
         return hash;
     }
-    
+
 }
